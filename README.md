@@ -159,6 +159,6 @@ Registry
  - Microsoft article about the Windows Registry.
 
 How to use System Configuration tool on Windows 10
- - Tutorial for using the Windows System Configuration tool.4444
+ - Tutorial for using the Windows System Configuration tool.
 
 
