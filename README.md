@@ -79,7 +79,3 @@ git branch -M main
 git push -u origin main
 
 ---------------------
-
-
-
-The truth is the way 
