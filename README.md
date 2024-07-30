@@ -70,9 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-
-The Witch and the Beast
-
 Github info
 git remote add origin https://github.com/shandonvasquez/itwebpage.git
 git branch -M main
