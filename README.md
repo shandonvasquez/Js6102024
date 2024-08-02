@@ -52,7 +52,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+
 ### Code Splitting
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
@@ -83,3 +85,8 @@ git branch -M main
 git push -u origin main
 
 ---------------------
+
+https://megacomputadoras.com.gt/producto/hp-prodesk-400-g9-tiny-core-i5-13va-gen-16gb-ram-ddr4-256gb-ssd-monitor-22/
+
+
+https://megacomputadoras.com.gt/producto/hp-prodesk-400-g9-tiny-core-i5-13va-gen-16gb-ram-ddr4-256gb-ssd-monitor-22/
